@@ -1,5 +1,5 @@
 #explanation
-Obstacle course #1: A ramp where we place our basebot on top of.
+Obstacle course #1: A green ramp where we place our basebot on top of.
 ![image](https://github.com/user-attachments/assets/183cb765-40b7-4760-bb6d-ec35266cfe22)
 Obstacle course #2: 
 ![image](https://github.com/user-attachments/assets/ec8f1ea2-76fb-4d8e-89a6-bbcd2f5afa86)
