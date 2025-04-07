@@ -9,5 +9,5 @@ Obstacle course #4: Yellow cubes blocking Hannah's way that he has to nacigate t
 ![image](https://github.com/user-attachments/assets/d0291ed6-bd98-4579-b62f-eb9d3f23e9a1)
 Obstacle course #5: A wall stopping Hannah that she has to knock over to pass
 ![image](https://github.com/user-attachments/assets/5d28c01f-5f2f-4c8e-b17a-e5b6f76f4841)
-Obstacle course #5.2 (Its apart of OC #5):
+Obstacle course #5.2 (Its apart of OC #5): A ball that Hannah has to drag to the finish line!
 ![image](https://github.com/user-attachments/assets/6d9cd434-2236-4afc-b0c1-d7ea6a14d146)
