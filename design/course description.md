@@ -1,7 +1,7 @@
 #explanation
-Obstacle course #1: A green ramp where we place our basebot on top of.
+Obstacle course #1: A green ramp where we place Hannah on top of.
 ![image](https://github.com/user-attachments/assets/183cb765-40b7-4760-bb6d-ec35266cfe22)
-Obstacle course #2: Bumpy terrain that our basebot has to traverse across
+Obstacle course #2: Bumpy terrain that our Hannah has to traverse across
 ![image](https://github.com/user-attachments/assets/ec8f1ea2-76fb-4d8e-89a6-bbcd2f5afa86)
 Obstacle course #3: 
 ![image](https://github.com/user-attachments/assets/c4900af8-7dd5-4758-a470-6b024f08c029)
